@@ -1,0 +1,8 @@
+# Ignore api_keys.py file
+api_keys.py
+
+# Ignore other unnecessary files
+__pycache__/
+*.pyc
+.DS_Store
+*.ipynb_checkpoints
